@@ -11437,9 +11437,16 @@ html {
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
   /* background-image: url('./img/portfoliopic.jpeg'); */
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/portfoliopic2.JPG');
+  background-image: linear-gradient( rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55) ), url('./img/background.JPG');
+
+  min-height: 500px; 
+
+  background-attachment: fixed;
   background-position: top;
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 130%;
+
+
 }
 .masthead .masthead-heading {
   font-size: 2.75rem;
