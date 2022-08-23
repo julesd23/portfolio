@@ -11439,12 +11439,12 @@ html {
   /* background-image: url('./img/portfoliopic.jpeg'); */
   background-image: linear-gradient( rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55) ), url('./img/background.JPG');
 
-  min-height: 500px; 
+  min-height: 420px; 
 
   background-attachment: fixed;
   background-position: top;
   background-repeat: no-repeat;
-  background-size: 130%;
+  background-size: 165%;
 
 
 }
